@@ -1,0 +1,15 @@
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicDALLibrary\bin\Debug\net6.0\ClinicDALLibrary.deps.json
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicDALLibrary\bin\Debug\net6.0\ClinicDALLibrary.dll
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicDALLibrary\bin\Debug\net6.0\ClinicDALLibrary.pdb
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicDALLibrary\bin\Debug\net6.0\ClinicModelLibrary.dll
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicDALLibrary\bin\Debug\net6.0\ClinicModelLibrary.pdb
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicDALLibrary\obj\Debug\net6.0\ClinicDALLibrary.csproj.AssemblyReference.cache
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicDALLibrary\obj\Debug\net6.0\ClinicDALLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicDALLibrary\obj\Debug\net6.0\ClinicDALLibrary.AssemblyInfoInputs.cache
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicDALLibrary\obj\Debug\net6.0\ClinicDALLibrary.AssemblyInfo.cs
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicDALLibrary\obj\Debug\net6.0\ClinicDALLibrary.csproj.CoreCompileInputs.cache
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicDALLibrary\obj\Debug\net6.0\ClinicDALLibrary.csproj.CopyComplete
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicDALLibrary\obj\Debug\net6.0\ClinicDALLibrary.dll
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicDALLibrary\obj\Debug\net6.0\refint\ClinicDALLibrary.dll
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicDALLibrary\obj\Debug\net6.0\ClinicDALLibrary.pdb
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicDALLibrary\obj\Debug\net6.0\ref\ClinicDALLibrary.dll

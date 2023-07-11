@@ -1,0 +1,12 @@
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicModelLibrary\bin\Debug\net6.0\ClinicModelLibrary.deps.json
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicModelLibrary\bin\Debug\net6.0\ClinicModelLibrary.dll
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicModelLibrary\bin\Debug\net6.0\ClinicModelLibrary.pdb
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicModelLibrary\obj\Debug\net6.0\ClinicModelLibrary.csproj.AssemblyReference.cache
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicModelLibrary\obj\Debug\net6.0\ClinicModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicModelLibrary\obj\Debug\net6.0\ClinicModelLibrary.AssemblyInfoInputs.cache
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicModelLibrary\obj\Debug\net6.0\ClinicModelLibrary.AssemblyInfo.cs
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicModelLibrary\obj\Debug\net6.0\ClinicModelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicModelLibrary\obj\Debug\net6.0\ClinicModelLibrary.dll
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicModelLibrary\obj\Debug\net6.0\refint\ClinicModelLibrary.dll
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicModelLibrary\obj\Debug\net6.0\ClinicModelLibrary.pdb
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicModelLibrary\obj\Debug\net6.0\ref\ClinicModelLibrary.dll

@@ -1,0 +1,17 @@
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicBALLibrary\bin\Debug\net6.0\ClinicBALLibrary.deps.json
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicBALLibrary\bin\Debug\net6.0\ClinicBALLibrary.dll
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicBALLibrary\bin\Debug\net6.0\ClinicBALLibrary.pdb
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicBALLibrary\bin\Debug\net6.0\ClinicDALLibrary.dll
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicBALLibrary\bin\Debug\net6.0\ClinicModelLibrary.dll
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicBALLibrary\bin\Debug\net6.0\ClinicDALLibrary.pdb
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicBALLibrary\bin\Debug\net6.0\ClinicModelLibrary.pdb
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicBALLibrary\obj\Debug\net6.0\ClinicBALLibrary.csproj.AssemblyReference.cache
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicBALLibrary\obj\Debug\net6.0\ClinicBALLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicBALLibrary\obj\Debug\net6.0\ClinicBALLibrary.AssemblyInfoInputs.cache
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicBALLibrary\obj\Debug\net6.0\ClinicBALLibrary.AssemblyInfo.cs
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicBALLibrary\obj\Debug\net6.0\ClinicBALLibrary.csproj.CoreCompileInputs.cache
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicBALLibrary\obj\Debug\net6.0\ClinicBALLibrary.csproj.CopyComplete
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicBALLibrary\obj\Debug\net6.0\ClinicBALLibrary.dll
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicBALLibrary\obj\Debug\net6.0\refint\ClinicBALLibrary.dll
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicBALLibrary\obj\Debug\net6.0\ClinicBALLibrary.pdb
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionClinicModelLibrary\ClinicBALLibrary\obj\Debug\net6.0\ref\ClinicBALLibrary.dll
